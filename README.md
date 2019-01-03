@@ -1,0 +1,2 @@
+# RLG
+RandomLifeGenerator
